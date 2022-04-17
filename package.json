@@ -1,0 +1,19 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "clock project",
+  "main": "runclock.html",
+  "scripts": {
+    "run": "runclock.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyHackInfo/clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyHackInfo/clock/issues"
+  },
+  "homepage": "https://github.com/MyHackInfo/clock#readme"
+}
