@@ -2,9 +2,9 @@
   "name": "clock",
   "version": "1.0.0",
   "description": "clock project",
-  "main": "runclock.html",
+  "main": "index.html",
   "scripts": {
-    "run": "runclock.html"
+    "run": "index.html"
   },
   "repository": {
     "type": "git",
